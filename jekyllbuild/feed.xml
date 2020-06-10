@@ -13,7 +13,7 @@
 					<description>&lt;p&gt;Here you can see the basic post. No fancy type, no setting and the featured image is just embedded into the content.&lt;/p&gt;
 </description>
 				
-				<pubDate>Tue, 10 Feb 2015 00:00:00 +0100</pubDate>
+				<pubDate>Wed, 10 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/standard/</link>
 				<guid isPermaLink="true">http://localhost:4000/standard/</guid>
 			</item>
@@ -22,10 +22,17 @@
 				<title>YouTube</title>
 				
 				
-					<description>&lt;p&gt;This is a youtube post type video.&lt;/p&gt;
+					<description>&lt;p&gt;This is youtube post YFRFgRm1BYE
+Brahms’s Hungarian Dance n°1 with Yuja Wang and Khatya Buniatisvili&lt;/p&gt;
+
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youtube&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;yt-video-id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;YFRFgRm1BYE&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
 				
-				<pubDate>Mon, 09 Feb 2015 00:00:00 +0100</pubDate>
+				<pubDate>Tue, 09 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/youtube/</link>
 				<guid isPermaLink="true">http://localhost:4000/youtube/</guid>
 			</item>
@@ -37,7 +44,7 @@
 					<description>&lt;p&gt;This audio post is displays without a material-sidebar and has the iframe set for the index pages, instead of a featured image.&lt;/p&gt;
 </description>
 				
-				<pubDate>Sun, 08 Feb 2015 00:00:00 +0100</pubDate>
+				<pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/audio/</link>
 				<guid isPermaLink="true">http://localhost:4000/audio/</guid>
 			</item>
@@ -49,7 +56,7 @@
 					<description>&lt;p&gt;Here you see an image post in the standard layout, with material-sidebar.&lt;/p&gt;
 </description>
 				
-				<pubDate>Sat, 07 Feb 2015 00:00:00 +0100</pubDate>
+				<pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/img/</link>
 				<guid isPermaLink="true">http://localhost:4000/img/</guid>
 			</item>
@@ -61,7 +68,7 @@
 					<description>&lt;p&gt;Here you’ll find a simple gallery, that just adds all of the images at full-width directly in the post content.&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 06 Feb 2015 00:00:00 +0100</pubDate>
+				<pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/gallery/</link>
 				<guid isPermaLink="true">http://localhost:4000/gallery/</guid>
 			</item>
@@ -74,7 +81,7 @@
 The featured image will be added at the beginning of the content, but not above it, as in an image post.&lt;/p&gt;
 </description>
 				
-				<pubDate>Thu, 05 Feb 2015 00:00:00 +0100</pubDate>
+				<pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/standard-full/</link>
 				<guid isPermaLink="true">http://localhost:4000/standard-full/</guid>
 			</item>
@@ -86,7 +93,7 @@ The featured image will be added at the beginning of the content, but not above 
 					<description>&lt;p&gt;This youtube video uses the iframe instead of the thumbnail image on the index pages.&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 04 Feb 2015 00:00:00 +0100</pubDate>
+				<pubDate>Thu, 04 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/youtube-full/</link>
 				<guid isPermaLink="true">http://localhost:4000/youtube-full/</guid>
 			</item>
@@ -95,10 +102,10 @@ The featured image will be added at the beginning of the content, but not above 
 				<title>Audio Full</title>
 				
 				
-					<description>&lt;p&gt;This audio post is displays without a material-sidebar and has a featured image set for the index pages.&lt;/p&gt;
+					<description>&lt;p&gt;This audio post displays without a material-sidebar and has a featured image set for the index page.&lt;/p&gt;
 </description>
 				
-				<pubDate>Tue, 03 Feb 2015 00:00:00 +0100</pubDate>
+				<pubDate>Wed, 03 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/audio-full/</link>
 				<guid isPermaLink="true">http://localhost:4000/audio-full/</guid>
 			</item>
@@ -107,10 +114,10 @@ The featured image will be added at the beginning of the content, but not above 
 				<title>Image Full</title>
 				
 				
-					<description>&lt;p&gt;Here you see an image post with a full-width layout.&lt;/p&gt;
+					<description>&lt;p&gt;Image post with a full-width layout.&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 02 Feb 2015 00:00:00 +0100</pubDate>
+				<pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/img-full/</link>
 				<guid isPermaLink="true">http://localhost:4000/img-full/</guid>
 			</item>
@@ -119,23 +126,23 @@ The featured image will be added at the beginning of the content, but not above 
 				<title>Gallery Alternative</title>
 				
 				
-					<description>&lt;p&gt;An alternative to the simple gallery would be this version, which displays the post ins a lightbox.
+					<description>&lt;p&gt;An alternative to the simple gallery would be this version, which displays the post in a lightbox.
 The setup basically is the same, the include makes all the difference.&lt;/p&gt;
 </description>
 				
-				<pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+				<pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/gallery-alt/</link>
 				<guid isPermaLink="true">http://localhost:4000/gallery-alt/</guid>
 			</item>
 		
 			<item>
-				<title>Vimeo</title>
+				<title>Vimeo qa</title>
 				
 				
-					<description>&lt;p&gt;this is a video post using the vimeo format.&lt;/p&gt;
+					<description>&lt;p&gt;Video post using the vimeo format.&lt;/p&gt;
 </description>
 				
-				<pubDate>Sat, 31 Jan 2015 00:00:00 +0100</pubDate>
+				<pubDate>Sun, 31 May 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/vimeo/</link>
 				<guid isPermaLink="true">http://localhost:4000/vimeo/</guid>
 			</item>
