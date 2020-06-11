@@ -31,7 +31,7 @@
 			</item>
 		
 			<item>
-				<title>YouTube</title>
+				<title>YT Brahms Hungarian Dance n°1 -Yuja &amp; Khatya</title>
 				
 				
 					<description>&lt;p&gt;This is youtube post YFRFgRm1BYE
@@ -50,7 +50,7 @@ Brahms’s Hungarian Dance n°1 with Yuja Wang and Khatya Buniatisvili&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>Audio</title>
+				<title>Audio Trăm nhớ ngàn thương</title>
 				
 				
 					<description>&lt;p&gt;This audio post is displays without a material-sidebar and has the iframe set for the index pages, instead of a featured image.&lt;/p&gt;
@@ -89,8 +89,11 @@ Brahms’s Hungarian Dance n°1 with Yuja Wang and Khatya Buniatisvili&lt;/p&gt;
 				<title>Full Width Post</title>
 				
 				
-					<description>&lt;p&gt;a standard post displayed at full-width, only requires a layout, variable.
-The featured image will be added at the beginning of the content, but not above it, as in an image post.&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;La Jeune Tarentine&lt;/em&gt; est une statue en marbre de 1871 du sculpteur français Alexandre Schoenewerk d’après un poème d’André Chénier, exposée au Musée d’Orsay de Paris &lt;br /&gt;
+&lt;em&gt;Elle a vécu, Myrto, la jeune Tarentine&lt;/em&gt; &lt;br /&gt;
+&lt;em&gt;Un vaisseau la portait au bord de Camarine&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Là l’hymen, les chansons, les flûtes lentement&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Devaient la reconduire au seuil de son amant…&lt;/em&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
@@ -99,10 +102,11 @@ The featured image will be added at the beginning of the content, but not above 
 			</item>
 		
 			<item>
-				<title>YouTube full</title>
+				<title>Bạch Đằng Giang</title>
 				
 				
-					<description>&lt;p&gt;This youtube video uses the iframe instead of the thumbnail image on the index pages.&lt;/p&gt;
+					<description>&lt;p&gt;YT-Full: this youtube video uses the iframe instead of the thumbnail image on the index pages.
+For a YouTube video, no embedding code is required, it all works through the video ID.&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 04 Jun 2020 00:00:00 +0200</pubDate>
@@ -111,10 +115,12 @@ The featured image will be added at the beginning of the content, but not above 
 			</item>
 		
 			<item>
-				<title>Audio Full</title>
+				<title>Tiến về Hà Nội</title>
 				
 				
-					<description>&lt;p&gt;This audio post displays without a material-sidebar and has a featured image set for the index page.&lt;/p&gt;
+					<description>&lt;p&gt;This audio post displays without a material-sidebar and has a featured image set for the index page.
+Audio Full
+For the audio post to work, &lt;em&gt;type&lt;/em&gt; must be set to audio and the audio-embed filled with an &lt;em&gt;iframe&lt;/em&gt;.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 03 Jun 2020 00:00:00 +0200</pubDate>
@@ -123,10 +129,12 @@ The featured image will be added at the beginning of the content, but not above 
 			</item>
 		
 			<item>
-				<title>Image Full</title>
+				<title>Ô saisons, ô châteaux</title>
 				
 				
-					<description>&lt;p&gt;Image post with a full-width layout.&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;Ô saisons, ô châteux | Quelle âme est sans défaut ?…&lt;/em&gt;
+Image post with a full-width layout. 
+The Front Matter is as below:&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
@@ -148,7 +156,7 @@ The setup basically is the same, the include makes all the difference.&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>YouTube</title>
+				<title>YT Càn khôn thập linh</title>
 				
 				
 					<description>&lt;p&gt;Youtube A4ttu71oJ70 is the “Càn Khôn Thập Linh” from TT Thích Hàng-Trường
@@ -179,7 +187,7 @@ first published on YT in 2008 May 28th&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>YouTube</title>
+				<title>Taekwando at Pt West Kensington</title>
 				
 				
 					<description>&lt;p&gt;Lucas and Hugo katas exam in Taekwando in London: YT video/v93tIhjG5_A
