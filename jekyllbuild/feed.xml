@@ -7,6 +7,18 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Foooooot !</title>
+				
+				
+					<description>&lt;p&gt;Vimeo video 427905971 starring Hugo and Lucas playing football with their cousin Jibou, all shooted by their aunt “dì Bu”.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 11 Jun 2020 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/vimeo/</link>
+				<guid isPermaLink="true">http://localhost:4000/vimeo/</guid>
+			</item>
+		
+			<item>
 				<title>Standard Post</title>
 				
 				
@@ -136,15 +148,21 @@ The setup basically is the same, the include makes all the difference.&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>Foooooot !</title>
+				<title>YouTube</title>
 				
 				
-					<description>&lt;p&gt;Vimeo video 427905971 starring Hugo and Lucas Dufournet-Tran plaing football with their cousin Jean-Baptiste Arnaud, all shooted by their aunt Bu.&lt;/p&gt;
+					<description>&lt;p&gt;Youtube A4ttu71oJ70 is the “Càn Khôn Thập Linh” from TT Thích Hàng-Trường
+(Thế Càn, Thần Oa, T.Ngưu, T.Hạc, T.Long, T Phượng, T. Hổ, Tiên Điềm, Linh Quy, Khôn)&lt;/p&gt;
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youtube&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;yt-video-id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;A4ttu71oJ70&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
 				
-				<pubDate>Sun, 31 May 2020 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/vimeo/</link>
-				<guid isPermaLink="true">http://localhost:4000/vimeo/</guid>
+				<pubDate>Tue, 10 Jun 2014 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/youtube-01/</link>
+				<guid isPermaLink="true">http://localhost:4000/youtube-01/</guid>
 			</item>
 		
 	</channel>

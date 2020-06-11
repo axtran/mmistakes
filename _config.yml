@@ -21,8 +21,9 @@ instagram: "#"
 twitter: "#"
 facebook: "#"
 youtube: "#"
-vimeo: "#"
+vimeo: "https://vimeo.com/user117457564"
 soundcloud: "#"
+anchor: "https://anchor.fm/dashboard"
 
 encoding: utf-8
 defaults:
