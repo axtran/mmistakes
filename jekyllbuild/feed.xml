@@ -7,27 +7,27 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Ngọc Hạ - tìm động hoa vàng</title>
+				
+				
+					<description>&lt;p&gt;This audio post is displays without a material-sidebar and has the &lt;em&gt;iframe&lt;/em&gt; set for the index pages, instead of a featured image.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 11 Jun 2020 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/audio-02/</link>
+				<guid isPermaLink="true">http://localhost:4000/audio-02/</guid>
+			</item>
+		
+			<item>
 				<title>Foooooot !</title>
 				
 				
 					<description>&lt;p&gt;Vimeo video 427905971 starring Hugo and Lucas playing football with their cousin Jibou, all shooted by their aunt “dì Bu”.&lt;/p&gt;
 </description>
 				
-				<pubDate>Thu, 11 Jun 2020 00:00:00 +0200</pubDate>
+				<pubDate>Wed, 10 Jun 2020 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/vimeo/</link>
 				<guid isPermaLink="true">http://localhost:4000/vimeo/</guid>
-			</item>
-		
-			<item>
-				<title>Standard Post</title>
-				
-				
-					<description>&lt;p&gt;Here you can see the basic post. No fancy type, no setting and the featured image is just embedded into the content.&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 10 Jun 2020 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/standard/</link>
-				<guid isPermaLink="true">http://localhost:4000/standard/</guid>
 			</item>
 		
 			<item>
@@ -45,8 +45,8 @@ Brahms’s Hungarian Dance n°1 with Yuja Wang and Khatya Buniatisvili&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 09 Jun 2020 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/youtube/</link>
-				<guid isPermaLink="true">http://localhost:4000/youtube/</guid>
+				<link>http://localhost:4000/yt-02/</link>
+				<guid isPermaLink="true">http://localhost:4000/yt-02/</guid>
 			</item>
 		
 			<item>
@@ -106,8 +106,8 @@ The featured image will be added at the beginning of the content, but not above 
 </description>
 				
 				<pubDate>Thu, 04 Jun 2020 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/youtube-full/</link>
-				<guid isPermaLink="true">http://localhost:4000/youtube-full/</guid>
+				<link>http://localhost:4000/yt-full/</link>
+				<guid isPermaLink="true">http://localhost:4000/yt-full/</guid>
 			</item>
 		
 			<item>
@@ -152,7 +152,8 @@ The setup basically is the same, the include makes all the difference.&lt;/p&gt;
 				
 				
 					<description>&lt;p&gt;Youtube A4ttu71oJ70 is the “Càn Khôn Thập Linh” from TT Thích Hàng-Trường
-(Thế Càn, Thần Oa, T.Ngưu, T.Hạc, T.Long, T Phượng, T. Hổ, Tiên Điềm, Linh Quy, Khôn)&lt;/p&gt;
+(Thế Càn, Thần Oa, T.Ngưu, T.Hạc, T.Long, T Phượng, T. Hổ, Tiên Điềm, Linh Quy, Khôn)
+first published on YT in 2008 May 28th&lt;/p&gt;
 &lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
 &lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youtube&lt;/span&gt;
 &lt;span class=&quot;na&quot;&gt;yt-video-id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;A4ttu71oJ70&lt;/span&gt;
@@ -160,9 +161,39 @@ The setup basically is the same, the include makes all the difference.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
 				
-				<pubDate>Tue, 10 Jun 2014 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/youtube-01/</link>
-				<guid isPermaLink="true">http://localhost:4000/youtube-01/</guid>
+				<pubDate>Thu, 28 May 2020 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/yt-01/</link>
+				<guid isPermaLink="true">http://localhost:4000/yt-01/</guid>
+			</item>
+		
+			<item>
+				<title>Standard Post</title>
+				
+				
+					<description>&lt;p&gt;Here you can see the basic post. No fancy type, no setting and the featured image is just embedded into the content.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/standard/</link>
+				<guid isPermaLink="true">http://localhost:4000/standard/</guid>
+			</item>
+		
+			<item>
+				<title>YouTube</title>
+				
+				
+					<description>&lt;p&gt;Lucas and Hugo katas exam in Taekwando in London: YT video/v93tIhjG5_A
+(At Point West David Lloyd Fitness center - Kensington borough) June 25th 2013&lt;/p&gt;
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youtube&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;yt-video-id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;v93tIhjG5_A&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+				
+				<pubDate>Tue, 25 Jun 2013 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/yt-03/</link>
+				<guid isPermaLink="true">http://localhost:4000/yt-03/</guid>
 			</item>
 		
 	</channel>
