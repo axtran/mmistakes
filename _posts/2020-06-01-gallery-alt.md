@@ -40,22 +40,6 @@ layout: post-full
 type: gallery
 gallery:
     - images:
-      - filename: KyNguuTuongCong.png
-        alttext: Ký Ngưu tướng công - Hán thuỷ hoành xung Thục lãng hề ...
-      - filename: La-jeune-Tarentine.jpg
-        alttext: statue en marbre de 1871 du sculpteur français Alexandre Schoenewerk (1820-1885) d'après un poème d'André Chénier
-      - filename: hoang-hac-lau.jpg
-        alttext: Hoàng Hạc Lâu
-      - filename: Chateaux.jpg
-        alttext: Ô saisons, ô châteaux 
-      - filename: TranFamily_1960.jpg
-        alttext: Gia đình - 1960
-      - filename: Chinh-khi.jpg
-        alttext: Chính khí
-      - filename: iris-flowers.jpg
-        alttext: Iris orchidée des pauvres
-      - filename: bang-vân.jpg
-        alttext:  Dại bàng lướt mây
       - filename: gallery-1.jpg
         alttext: Bloom Flat
       - filename: gallery-2.jpg
