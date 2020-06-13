@@ -7,11 +7,27 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>YT Foooooot ! (3.27 mn)</title>
+				<title>Lòng Mẹ</title>
 				
 				
-					<description>&lt;p&gt;Lucas and Hugo and Jibou playing footbal in video e4Jqm1lSWl8 &lt;br /&gt;
-3 mn&lt;/p&gt;
+					<description>&lt;p&gt;Lòng Mẹ&lt;/p&gt;
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youtube&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;yt-video-id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;bwraQF3sxEA&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+				
+				<pubDate>Sat, 13 Jun 2020 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/yt-05/</link>
+				<guid isPermaLink="true">http://localhost:4000/yt-05/</guid>
+			</item>
+		
+			<item>
+				<title>Beethoven's Silence</title>
+				
+				
+					<description>&lt;p&gt;Beethoven’s Silence - YFD2PPAqNbw 9.55 mn&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 12 Jun 2020 00:00:00 +0200</pubDate>
@@ -45,7 +61,7 @@ Video created by pasting the embed code directly from vimeo.&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>YT Brahms Hungarian Dance n°1 -Yuja &amp; Khatya</title>
+				<title>Brahms Hungarian Dance n°1 -Yuja &amp; Khatya</title>
 				
 				
 					<description>&lt;p&gt;This is youtube post YFRFgRm1BYE
@@ -170,7 +186,7 @@ The setup basically is the same, the include makes all the difference.&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>YT Càn khôn thập linh</title>
+				<title>Càn khôn thập linh</title>
 				
 				
 					<description>&lt;p&gt;Youtube A4ttu71oJ70 is the “Càn Khôn Thập Linh” from TT Thích Hàng-Trường
@@ -201,21 +217,20 @@ first published on YT in 2008 May 28th&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>Taekwando at Pt West Kensington</title>
+				<title>Eugen Doga - Waltz of Roses</title>
 				
 				
-					<description>&lt;p&gt;Lucas and Hugo katas exam in Taekwando in London: YT video/v93tIhjG5_A
-(At Point West David Lloyd Fitness center - Kensington borough) June 25th 2013&lt;/p&gt;
+					<description>&lt;p&gt;Eugen Doga - Waltz of Roses&lt;/p&gt;
 &lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
 &lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youtube&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;yt-video-id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;v93tIhjG5_A&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;yt-video-id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;mEmyZLaaRWc&lt;/span&gt;
 &lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
 				
 				<pubDate>Tue, 25 Jun 2013 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/yt-03/</link>
-				<guid isPermaLink="true">http://localhost:4000/yt-03/</guid>
+				<link>http://localhost:4000/yt-02/</link>
+				<guid isPermaLink="true">http://localhost:4000/yt-02/</guid>
 			</item>
 		
 	</channel>
