@@ -2,6 +2,26 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+# layout: home
+# author_profile: true
 ---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  <body>
+    <div id="loginForm"> <!-- 1 -->
+    <span>Enter your github credentials:</span>
+    <form onsubmit="event.preventDefault(); onSubmit(this);">
+        <input type="text" id="login" name="login" placeholder="Github username" required>
+        <input type="password" id="password" name="login" placeholder="Github password/token" required>
+        <input type="submit" value="Access">
+    </form>
+    </div>
+    <script>
+       window.page = '${page}'; // 2
+    </script>
+    <script src="assets/js/github.js"></script>
+    
+  </body>
+
+</html>
