@@ -1,5 +1,5 @@
 const org = 'axtran';
-const repo = 'axtran.github.io';
+const repo = 'private-gridster';
 const branch = 'gh-pages-private';
 function onSubmit(form) {
   // 1
