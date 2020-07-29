@@ -1,6 +1,7 @@
 const org = 'axtran';
 const repo = 'private-gridster';
 const branch = 'gh-pages-private';
+const page = 'index.html'
 function onSubmit(form) {
   // 1
   const login = form.username || form.querySelector('#login').value;
