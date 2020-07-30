@@ -4,11 +4,14 @@ const branch = 'gh-pages-private';
 const page = 'index.html'
 function onSubmit(form) {
   
-  const login = form.username || form.querySelector('#login').value;
-  const password = form.token || form.querySelector('#password').value;
-
+  //#endregion
+  //#const login = form.username || form.querySelector('#login').value;
+  //#const password = form.token || form.querySelector('#password').value;
+  const login = 'qatran';
+  const password = '=2x6kpr7;';
   
   const token = btoa(`${login}:${password}`);
+  //const token = 'a11967ec6e83409ff92fdddc3bc0122db133cbfa';
   const request = new Request(
     `https://api.github.com/repos/${org}/${repo}/contents/${page}?ref=${branch}`,
     {
